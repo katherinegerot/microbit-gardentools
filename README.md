@@ -46,9 +46,12 @@ To connect a computer with the microbit, use a serial connection using the follo
 
 ### Measuring Soil Potential
 [1][UMass Extension : Measuring Soil Moisture](https://link.springer.com/article/10.1007/BF00296702)
+
 [2][Soil water potential measurement: An overview](https://link.springer.com/article/10.1007/BF00296702)
 
 **Equation for calculating Soil Potential** -[2]
+
 *Soil Potential (per unit mass) = (Matric Potential) + (Osmotic Potential) + (Pressure Potential) + (Gravitational Potential)*
+
  - **Pressure Potential** is measured by the gravitational constant (*g*) multiplied by the distance (*d*) between the point of measurement and the free water surface above.
  - **Gravitational Potential** is measured by the gravitational constant (*g*) multiplied by the distance (*d*) to a reference position
